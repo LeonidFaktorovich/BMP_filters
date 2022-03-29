@@ -1,4 +1,0 @@
-/snap/clion/184/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/184/bin/ninja/linux/ninja -DCMAKE_CXX_COMPILER=/bin/g++-10 -G Ninja /home/leonid/CLionProjects/BMP_filters
--- Configuring done
--- Generating done
--- Build files have been written to: /home/leonid/CLionProjects/BMP_filters/cmake-build-debug

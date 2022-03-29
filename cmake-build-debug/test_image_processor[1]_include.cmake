@@ -1,5 +1,0 @@
-if(EXISTS "/home/leonid/CLionProjects/BMP_filters/cmake-build-debug/test_image_processor[1]_tests.cmake")
-  include("/home/leonid/CLionProjects/BMP_filters/cmake-build-debug/test_image_processor[1]_tests.cmake")
-else()
-  add_test(test_image_processor_NOT_BUILT test_image_processor_NOT_BUILT)
-endif()
